@@ -1,0 +1,203 @@
+# MY APP Help Center
+
+## Welcome to MY APP!
+
+Thank you for choosing MY APP – your AI-powered creative visualization tool. This guide will help you get started and make the most of our features.
+
+---
+
+## Table of Contents
+1. [Getting Started](#getting-started)
+2. [Creating Your First Image](#creating-your-first-image)
+3. [Features Guide](#features-guide)
+4. [Tips & Best Practices](#tips--best-practices)
+5. [Troubleshooting](#troubleshooting)
+6. [FAQs](#faqs)
+
+---
+
+## Getting Started
+
+### System Requirements
+- **Browser:** Chrome 90+, Firefox 88+, Safari 14+, Edge 90+
+- **Internet:** Stable connection (5+ Mbps recommended)
+- **Account:** Free or Premium membership
+
+### Creating an Account
+1. Visit [www.MY APP.io](https://www.MY APP.io)
+2. Click "Sign Up" in the top-right corner
+3. Register using email, Google, or GitHub
+4. Verify your email address
+5. Complete your profile (optional)
+
+---
+
+## Creating Your First Image
+
+### Step 1: Start a New Project
+- From the dashboard, click **"+ New Creation"**
+- Choose canvas size (Square, Landscape, Portrait, or Custom)
+
+### Step 2: Enter Your Prompt
+Describe what you want to see:
+- Be descriptive: *"A mystical forest at twilight with glowing mushrooms and fairy lights"*
+- Include style preferences: *"in the style of Studio Ghibli, watercolor texture"*
+- Specify mood/colors: *"calm atmosphere, soft purple and blue tones"*
+
+### Step 3: Select Style (Optional)
+Choose from our style library:
+- **Classic:** Realistic, oil painting, watercolor, sketch
+- **Modern:** Digital art, cyberpunk, minimalist, 3D render
+- **Artistic:** Anime, fantasy, steampunk, abstract
+
+### Step 4: Generate
+Click **"Generate"** and wait 5-15 seconds for your image to appear.
+
+### Step 5: Refine or Download
+- **Remix:** Adjust prompt and generate variations
+- **Edit:** Fine-tune with our editing tools
+- **Download:** Save as PNG, JPG, or SVG (Premium: transparent background)
+
+---
+
+## Features Guide
+
+### 🎨 Style Library
+Access 20+ artistic styles. Premium users get exclusive access to 15+ additional styles.
+
+### 🔄 Image-to-Image
+Upload a reference image and let AI transform it:
+1. Click **"Upload Reference"**
+2. Add your prompt describing changes
+3. Adjust "Style Strength" slider (0-100%)
+4. Generate
+
+### ✏️ Inpainting Tool
+Edit specific areas of your image:
+1. Select **"Edit"** → **"Inpainting"**
+2. Brush over area to modify
+3. Describe what should appear there
+4. Apply changes
+
+### 📁 Collections
+Organize your creations:
+- Create collections by project or theme
+- Share collections with team members
+- Export entire collections as ZIP
+
+### 👥 Collaboration
+- **Share:** Generate shareable links (view/edit permissions)
+- **Comments:** Leave feedback on team members' creations
+- **Version History:** Track changes and revert if needed
+
+---
+
+## Tips & Best Practices
+
+### Writing Effective Prompts
+| Do ✅ | Don't ❌ |
+|------|---------|
+| "A serene Japanese garden with cherry blossoms, koi pond, soft morning light" | "garden" |
+| "Cyberpunk city street at night, neon signs, rain reflections, futuristic cars" | "city" |
+| "Portrait of a wizard with long gray beard, glowing staff, starry background" | "old man" |
+
+### Structure Your Prompt:
+**[Subject] + [Details] + [Style] + [Mood/Lighting] + [Colors]**
+
+Example: *"A dragon // scales shimmering like gems, perched on mountain // fantasy art style // dramatic sunset lighting // rich gold and deep purple hues"*
+
+### Resolution Guide
+- **Web/Social Media:** 1024×1024 (square) or 1024×768
+- **Print (small):** 2048×2048
+- **Print (large):** 4096×4096 (Premium only)
+
+---
+
+## Troubleshooting
+
+### Common Issues
+
+**Image generation fails or times out**
+- Check internet connection
+- Reduce prompt complexity
+- Try during off-peak hours
+- Clear browser cache
+
+**Images look blurry or distorted**
+- Add more descriptive details
+- Avoid conflicting concepts
+- Try a different style preset
+- Increase resolution setting
+
+**Prompt not generating what I expect**
+- Be more specific
+- Separate concepts with "//" for clarity
+- Check for spelling errors
+- Try our "Prompt Helper" tool
+
+**Upload not working**
+- File size under 10MB
+- Supported formats: JPG, PNG, WEBP
+- Refresh and try again
+
+### Support Contacts
+- **Email:** support@MY APP.io
+- **Help Center:** help.MY APP.io
+- **Community Forum:** community.MY APP.io
+- **Response time:** Within 24 hours (Premium: 4 hours)
+
+---
+
+## FAQs
+
+**Q: Is MY APP free?**
+A: Yes! We offer a Free tier with 10 generations/month. Premium plans start at $9.99/month for 100+ generations and exclusive features.
+
+**Q: Who owns the images I create?**
+A: You retain full ownership of all images generated with MY APP. See our Terms of Service for details.
+
+**Q: Can I use images commercially?**
+A: Yes, all plans allow commercial use. Premium users get additional commercial benefits.
+
+**Q: What languages are supported?**
+A: Currently English, Spanish, French, German, Japanese, and Chinese. More coming soon!
+
+**Q: How does MY APP protect my privacy?**
+A: All uploads and generations are encrypted. We never share your data. See Privacy Policy for details.
+
+---
+
+## Keyboard Shortcuts
+
+| Action | Shortcut |
+|--------|----------|
+| New creation | `Ctrl/Cmd + N` |
+| Generate | `Ctrl/Cmd + Enter` |
+| Save project | `Ctrl/Cmd + S` |
+| Download image | `Ctrl/Cmd + D` |
+| Undo | `Ctrl/Cmd + Z` |
+| Redo | `Ctrl/Cmd + Shift + Z` |
+| Toggle fullscreen | `F11` |
+| Search projects | `Ctrl/Cmd + K` |
+
+---
+
+## Version History
+
+| Version | Date | Updates |
+|---------|------|---------|
+| 2.5.0 | Jan 2026 | Inpainting tool, 5 new styles |
+| 2.4.0 | Nov 2025 | Collaboration features, collections |
+| 2.3.0 | Sep 2025 | Image-to-image, improved quality |
+| 2.0.0 | Jun 2025 | Major UI overhaul, real-time generation |
+
+---
+
+*Last updated: February 2026*
+
+Need more help? Visit our [Community Forum](https://community.MY APP.io) or contact [Support](mailto:support@MY APP.io).
+
+---
+
+**Happy Creating!** 🎨✨  
+*The MY APP Team*
