@@ -1,2 +1,2 @@
-ccollaboration Demo Project
+collaboration Demo Project
 Version 3.0
